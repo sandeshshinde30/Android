@@ -1,0 +1,11 @@
+os Windows 
+
+1. andorid manifest.xml
+ <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+2. Mainactivity.java
+3. activitymain.xml
+4.you need to allow sms permission to the application when you will install the app in your phone using usb debugging. 
