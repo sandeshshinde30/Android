@@ -1,0 +1,7 @@
+OS: Windows 11
+
+Just copy and paste .xml and .java file code
+
+add images in drawable folder as named in code(images are provided in folder)
+
+make sure that image name starts with lowercases
