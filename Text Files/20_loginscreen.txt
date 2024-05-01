@@ -1,0 +1,7 @@
+login screen
+OS - Windows
+Used files -
+1. MainActivity.java
+2. activity_main.xml
+3. logout.java   // java-> com.example.loginscreen -> logout
+4. activity_logout.xml  // res -> layout -> activity_logout.xml  
