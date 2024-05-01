@@ -1,0 +1,9 @@
+OS - Linux
+
+Used Files : 
+
+1. MainActivity.java
+2. activity_main.xml
+
+3.AndroidManifest.xml : 
+                <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/> add this permission to access images.
