@@ -1,0 +1,7 @@
+Dec_To_Bin_hex
+OS - Windows
+Used files -
+1. MainActivity.java  
+2. activity_main.xml  
+3. array.xml         // res -> values -> array.xml
+
