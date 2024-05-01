@@ -1,0 +1,8 @@
+OS - Linux
+
+Used files : 
+
+1. MainActivity.java
+2. activity_main.xml
+
+
