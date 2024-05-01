@@ -1,4 +1,4 @@
-package com.example.googlemaps;
+package com.example.google_map;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.googlemaps", appContext.getPackageName());
+        assertEquals("com.example.google_map", appContext.getPackageName());
     }
 }
