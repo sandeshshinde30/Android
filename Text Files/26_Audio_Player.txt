@@ -1,0 +1,13 @@
+OS - Windows
+
+Used Files : 
+
+1. MainActivity.java
+2. activity_main.xml
+3. drawable :
+	1. faded.jpg
+	2. pause.png
+	3. play.png
+	4. stop.png
+4. Make raw folder inside res : 
+	1. faded.mp3
