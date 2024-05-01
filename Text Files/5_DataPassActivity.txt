@@ -1,0 +1,8 @@
+pass data between activities
+OS - Windows
+Used files
+1. MainActivity.java
+2. activity_main.xml
+3. LanguageActivity.java // java -> com.example.pass_data -> languageActivity
+4. activity_langugae.xml // res -> layout -> activitylanguage.xml
+5. logo images (cpp,java,javascript,python) // res -> drawable 
