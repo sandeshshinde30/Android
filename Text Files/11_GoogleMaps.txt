@@ -1,0 +1,17 @@
+OS : Windows
+Used Files :
+
+1.AndroidManifest.xml :
+ Inside <application> tag :
+
+ <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="API Key" />
+
+ add this meta data
+
+2. MainActivity.java
+3. activity_main.xml
+4. build.gradle(module:app) : 
+	i. Inside dependencies =>  implementation 'com.google.android.gms:play-services-maps:18.2.0'
+	ii. make minSdk 34 and compileSdk 34
