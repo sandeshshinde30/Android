@@ -1,0 +1,6 @@
+os windows 
+
+1. mainactivty.java
+2. activitymain.xml 
+
+no special requirements 
