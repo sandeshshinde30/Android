@@ -1,0 +1,9 @@
+OS - Linux
+
+Used files : 
+
+1. MainActivity.java
+2. activity_main.xml
+
+3. build.gradle(Module:app) : 
+                make compileSdk 34 and targetSdk 34
