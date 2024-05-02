@@ -14,7 +14,7 @@ import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ImageButton imageButton;
+    private ImageButton imageButton,imageButton1;
     private ImageButton rotateButton;
     private int currentRotation = 0;
 
@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         imageButton = findViewById(R.id.imageButton);
+
+
         rotateButton = findViewById(R.id.rotateButton);
 
         rotateButton.setOnClickListener(new View.OnClickListener() {
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         RotateAnimation rotate = new RotateAnimation(currentRotation, currentRotation + 90,
                 Animation.RELATIVE_TO_SELF, 0.5f,
                 Animation.RELATIVE_TO_SELF, 0.5f);
-        rotate.setDuration(500);
+        rotate.setDuration(1000);
         rotate.setFillAfter(true);
         imageButton.startAnimation(rotate);
     }
